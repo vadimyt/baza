@@ -1,0 +1,48 @@
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.AssemblyReference.cache
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.Form1.resources
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.Properties.Resources.resources
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.GenerateResource.cache
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.CoreCompileInputs.cache
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.exe.config
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.exe
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.pdb
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.exe
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCL.dll
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.pdb
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.exe.config
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCL.pdb
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.exe
+C:\Users\matve\OneDrive\Рабочий стол\Проекты биллинга\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.pdb
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.exe.config
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.exe
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.pdb
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.exe
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCL.dll
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.pdb
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.exe.config
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCL.pdb
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.AssemblyReference.cache
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.Form1.resources
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.Properties.Resources.resources
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.GenerateResource.cache
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.CoreCompileInputs.cache
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.CopyComplete
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.exe
+C:\Users\timto\Documents\GitHub\Arkham\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.pdb
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.exe.config
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.exe
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesWF.pdb
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.exe
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCL.dll
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.pdb
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCA.exe.config
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\bin\Debug\PrimeadesCL.pdb
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.AssemblyReference.cache
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.Form1.resources
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.Properties.Resources.resources
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.GenerateResource.cache
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.CoreCompileInputs.cache
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.csproj.CopyComplete
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.exe
+C:\Users\05vad\Desktop\baza\PrimeadesCL\PrimeadesWF\obj\Debug\PrimeadesWF.pdb
